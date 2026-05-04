@@ -1,0 +1,15 @@
+{
+  "mcp": {
+    "servers": {
+      "email": {
+        "command": "python",
+        "args": [
+          "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs/scripts/mcp_email_server.py"
+        ],
+        "cwd": "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs",
+        "env": {}
+      }
+    }
+  },
+  "$version": 3
+}

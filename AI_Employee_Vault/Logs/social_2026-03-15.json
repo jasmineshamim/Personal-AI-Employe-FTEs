@@ -1,0 +1,276 @@
+[
+  {
+    "timestamp": "2026-03-15T15:31:19.394351",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {
+      "type": "social_media_post",
+      "platforms": [
+        "facebook"
+      ],
+      "message": "AI Employee Gold Tier is working! \ud83d\ude80",
+      "image_path": null,
+      "post_type": "feed",
+      "scheduled_time": null,
+      "created": "2026-03-15T12:57:22.205498",
+      "status": "pending_approval"
+    },
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T15:43:05.076623",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T15:48:36.809810",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T15:59:07.189643",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#100) The global id 61582308942091 is not allowed for this call"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T16:00:42.794455",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#100) The global id 61582308942091 is not allowed for this call"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T16:03:32.648955",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T16:05:57.342277",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T19:37:18.473865",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "The post is empty. Please enter a message to share."
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T19:39:35.779650",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T20:04:09.070520",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T20:04:46.635734",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#100) The global id 61582308942091 is not allowed for this call"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T20:28:16.937338",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "The post is empty. Please enter a message to share."
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T20:34:24.945995",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "Cannot call API for app 802622322881320 on behalf of user 122097801393025279"
+        }
+      ]
+    ],
+    "metadata": {
+      "type": "social_media_post",
+      "platforms": [
+        "facebook"
+      ],
+      "message": "AI Employee Gold Tier is LIVE! Facebook posting working! \ud83d\ude80 #Hackathon2026",
+      "image_path": null,
+      "post_type": "feed",
+      "scheduled_time": null,
+      "created": "2026-03-15T20:30:31.300402",
+      "status": "pending_approval"
+    },
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T23:44:30.916165",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission"
+        }
+      ]
+    ],
+    "metadata": {
+      "type": "social_media_post",
+      "platforms": [
+        "facebook"
+      ],
+      "message": "AI Employee Gold Tier is LIVE! Facebook posting",
+      "image_path": null,
+      "post_type": "feed",
+      "scheduled_time": null,
+      "created": "2026-03-15T20:30:00.133281",
+      "status": "pending_approval"
+    },
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T23:50:09.220392",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": false,
+          "error": "The post is empty. Please enter a message to share."
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-15T23:53:37.477829",
+    "action": "social_media_post",
+    "platforms": [
+      [
+        "facebook",
+        {
+          "success": true,
+          "post_id": "1035403906326513_122101111371076964",
+          "type": "text"
+        }
+      ]
+    ],
+    "metadata": {},
+    "status": "success"
+  }
+]

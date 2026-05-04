@@ -1,0 +1,10 @@
+{
+  "type": "social_media_post",
+  "platform": "twitter",
+  "text": "Test",
+  "thread": null,
+  "reply_to": null,
+  "scheduled_time": null,
+  "created": "2026-03-31T12:33:40.701680",
+  "status": "pending_approval"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-03-31T12:50:31.638818",
+    "file": "TWITTER_DRAFT_20260331_124853.md",
+    "error": "403 Forbidden\nYour client app is not configured with the appropriate oauth1 app permissions for this endpoint.",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-31T12:51:39.183228",
+    "file": "TWITTER_DRAFT_20260331_124853.md",
+    "error": "403 Forbidden\nYour client app is not configured with the appropriate oauth1 app permissions for this endpoint.",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-31T12:54:31.648224",
+    "file": "TWITTER_DRAFT_20260331_124853.md",
+    "error": "402 Payment Required\nYour enrolled account [2038875422054621185] does not have any credits to fulfill this request.",
+    "status": "failed"
+  }
+]

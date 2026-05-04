@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-03-15T15:19:54.684568",
+    "file": "SOCIAL_DRAFT_FEED_20260315_125722.md",
+    "error": "\n\n  Message: Call was not successful\n  Method:  GET\n  Path:    https://graph.facebook.com/v25.0/1035403906326513/feed\n  Params:  {'summary': 'true'}\n\n  Status:  400\n  Response:\n    {\n      \"error\": {\n        \"message\": \"Error validating access token: Session has expired on Sunday, 15-Mar-26 02:00:00 PDT. The current time is Sunday, 15-Mar-26 03:20:50 PDT.\",\n        \"type\": \"OAuthException\",\n        \"code\": 190,\n        \"error_subcode\": 463,\n        \"fbtrace_id\": \"AEyKkrGi7Qw1EsJm74W1QFN\"\n      }\n    }\n",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-15T15:24:56.872344",
+    "file": "SOCIAL_DRAFT_FEED_20260315_125722.md",
+    "error": "'Cursor' object has no attribute 'create_post'",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-15T15:27:14.838550",
+    "file": "SOCIAL_DRAFT_FEED_20260315_125722.md",
+    "error": "'Page' object has no attribute 'create_feed_post'",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-15T15:27:25.790119",
+    "file": "SOCIAL_DRAFT_FEED_20260315_125722.md",
+    "error": "'Page' object has no attribute 'create_feed_post'",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2026-03-15T15:29:48.322908",
+    "file": "SOCIAL_DRAFT_FEED_20260315_125722.md",
+    "error": "'Page' object has no attribute 'api_call'",
+    "status": "failed"
+  }
+]

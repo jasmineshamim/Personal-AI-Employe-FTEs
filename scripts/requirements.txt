@@ -1,0 +1,45 @@
+# AI Employee - Python Dependencies
+# Gold Tier - Complete requirements
+
+# Core dependencies (Bronze Tier)
+watchdog>=4.0.0
+
+# Gmail Watcher
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# WhatsApp & LinkedIn Watchers (Playwright)
+playwright>=1.40.0
+
+# Facebook & Instagram Integration
+
+facebook-business>=17.0.0
+
+# Twitter/X Integration
+tweepy>=4.14.0
+
+# Odoo ERP Integration
+# Uses XML-RPC (built into Python standard library)
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Enhanced logging
+colorama>=0.4.6
+
+# Data processing
+xmltodict>=0.14.0
+
+# HTTP requests for APIs
+requests>=2.31.0
+
+# MCP Server support
+mcp>=0.1.0
+
+# Optional: Data validation
+pydantic>=2.0.0
+
+# Optional: YAML parsing
+pyyaml>=6.0.0
+

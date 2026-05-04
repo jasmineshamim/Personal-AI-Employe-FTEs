@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": [
+        "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs/scripts/mcp_email_server.py"
+      ],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs/credentials.json"
+      }
+    },
+    "social": {
+      "command": "python",
+      "args": [
+        "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs/scripts/mcp_social_server.py"
+      ],
+      "env": {
+        "FACEBOOK_APP_ID": "your_app_id",
+        "FACEBOOK_APP_SECRET": "your_app_secret",
+        "FACEBOOK_ACCESS_TOKEN": "your_access_token",
+        "FACEBOOK_PAGE_ID": "your_page_id",
+        "TWITTER_API_KEY": "your_api_key",
+        "TWITTER_API_SECRET": "your_api_secret",
+        "TWITTER_ACCESS_TOKEN": "your_access_token",
+        "TWITTER_ACCESS_TOKEN_SECRET": "your_token_secret"
+      }
+    },
+    "odoo": {
+      "command": "python",
+      "args": [
+        "C:/Users/Dell/Documents/GitHub/Personal-AI-Employe-FTEs/scripts/mcp_odoo_server.py"
+      ],
+      "env": {
+        "ODOO_URL": "http://localhost:8069",
+        "ODOO_DB": "odoo",
+        "ODOO_USERNAME": "admin",
+        "ODOO_PASSWORD": "admin"
+      }
+    },
+    "browser": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/browser-mcp"],
+      "env": {
+        "HEADLESS": "true"
+      }
+    }
+  }
+}

@@ -1,0 +1,419 @@
+2026-02-28 16:41:19,873 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-02-28 16:41:19,873 - FilesystemWatcher - INFO - Watching folder: AI_Employee_Vault\Inbox
+2026-02-28 16:41:19,875 - FilesystemWatcher - ERROR - Fatal error: name 'time' is not defined
+2026-02-28 16:44:48,673 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-02-28 16:44:48,673 - FilesystemWatcher - INFO - Watching folder: AI_Employee_Vault\Inbox
+2026-02-28 16:46:39,920 - FilesystemWatcher - INFO - File detected: AI_Employee_Vault\Inbox\test_file.md
+2026-03-05 11:50:54,177 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1017440201101-u01eiknn30s2dvagc2akhgrgl6b5plgq.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A54364%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=xCwXFBdRcSaMTlUVOH6f8E1RFCcIFF&code_challenge=MtVmEPWpr1bI1Le0dnNvDPVvMWOlOVidlENR0Qrr5D8&code_challenge_method=S256&access_type=offline
+2026-03-12 11:57:44,019 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1017440201101-u01eiknn30s2dvagc2akhgrgl6b5plgq.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A61296%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=x4AsenJwFYbkKW79UEdplPcAi3Sfq0&code_challenge=P_Rji0_BXnFkDGjQ-n1lwGIT8J9ZUg41A9fddeLCQaY&code_challenge_method=S256&access_type=offline
+2026-03-12 11:58:06,011 - google_auth_oauthlib.flow - INFO - "GET /?state=x4AsenJwFYbkKW79UEdplPcAi3Sfq0&iss=https://accounts.google.com&code=4/0AfrIepBQXB2m_5lL0FDu8N1kHiYEN-SbzsrxmIpbgypgiqB2T0z9cJY6tvXeXVDDK5H5hQ&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-03-12 11:58:07,972 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 11:58:08,065 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 11:58:40,801 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 11:58:40,802 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 11:58:40,802 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 11:58:40,838 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 11:58:40,843 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 11:59:22,446 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 12:05:39,223 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 12:05:39,223 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 12:05:39,224 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 12:05:39,228 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 12:05:39,232 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 12:05:40,757 - GmailWatcher - INFO - Created action file: EMAIL_20260312_120540_Hi_.md
+2026-03-12 12:06:51,591 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 12:08:07,813 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 12:08:07,814 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 12:08:07,814 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 12:08:07,818 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 12:08:07,822 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 12:08:26,531 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 12:18:07,562 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 12:18:07,562 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 12:18:07,562 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 12:18:07,568 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 12:18:07,573 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 12:18:09,370 - GmailWatcher - INFO - Created action file: EMAIL_20260312_121809_Hi_.md
+2026-03-12 12:23:33,852 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 12:48:11,168 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 12:48:11,169 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 12:48:11,169 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 12:48:11,175 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 12:48:11,178 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 12:48:13,275 - GmailWatcher - INFO - Created action file: EMAIL_20260312_124813_Hi_.md
+2026-03-12 12:49:01,853 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 13:28:03,726 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 13:28:03,726 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 13:28:03,726 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 13:28:04,727 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 13:28:04,734 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 13:28:07,059 - GmailWatcher - INFO - Created action file: EMAIL_20260312_132807_Help_strengthen_the_security_o.md
+2026-03-12 13:28:07,069 - GmailWatcher - INFO - Created action file: EMAIL_20260312_132807_Hi_.md
+2026-03-12 13:30:30,408 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 13:30:42,944 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 13:30:42,944 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 13:30:42,944 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 13:30:42,985 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 13:30:42,988 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 13:30:45,809 - GmailWatcher - INFO - Created action file: EMAIL_20260312_133045_Help_strengthen_the_security_o.md
+2026-03-12 13:30:45,819 - GmailWatcher - INFO - Created action file: EMAIL_20260312_133045_Hi_.md
+2026-03-12 13:33:08,328 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-12 13:37:00,353 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-12 13:37:00,353 - GmailWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-12 13:37:00,353 - GmailWatcher - INFO - Check interval: 120s
+2026-03-12 13:37:00,358 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-12 13:37:00,360 - GmailWatcher - INFO - Gmail authentication successful
+2026-03-12 13:37:03,161 - GmailWatcher - INFO - Created action file: EMAIL_20260312_133703_Help_strengthen_the_security_o.md
+2026-03-12 13:37:03,170 - GmailWatcher - INFO - Created action file: EMAIL_20260312_133703_Hi_.md
+2026-03-12 13:43:13,321 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-17 14:19:40,866 - __main__ - INFO - No existing session found, starting fresh
+2026-03-17 14:19:40,868 - __main__ - WARNING - Facebook credentials not found. Set FACEBOOK_* environment variables.
+2026-03-17 14:19:40,869 - __main__ - WARNING - Instagram credentials not found.
+2026-03-17 14:19:40,869 - __main__ - INFO - Starting Facebook & Instagram Watcher...
+2026-03-17 14:19:40,869 - __main__ - INFO - Running single check...
+2026-03-17 14:19:40,870 - __main__ - INFO - Found 0 updates
+2026-03-17 14:20:33,894 - __main__ - INFO - No existing session found, starting fresh
+2026-03-17 14:20:33,900 - __main__ - INFO - Facebook API initialized successfully
+2026-03-17 14:20:33,903 - __main__ - INFO - Instagram API initialized successfully
+2026-03-17 14:20:33,903 - __main__ - INFO - Starting Facebook & Instagram Watcher...
+2026-03-17 14:20:33,903 - __main__ - INFO - Running single check...
+2026-03-17 14:20:35,106 - __main__ - ERROR - Error getting messages: 
+
+  Message: Call was not successful
+  Method:  GET
+  Path:    https://graph.facebook.com/v25.0/1035403906326513/conversations
+  Params:  {'fields': 'messages{from,message,created_time,id}', 'summary': 'true'}
+
+  Status:  403
+  Response:
+    {
+      "error": {
+        "message": "(#200) Requires permission: pages_messaging or User associated with the Page access token does not have an appropriate role on the Page.",
+        "type": "OAuthException",
+        "code": 200,
+        "fbtrace_id": "AhG2LoSqvg2-mdr5k5DB2if"
+      }
+    }
+
+2026-03-17 14:20:35,109 - __main__ - ERROR - Error getting comments: Page.get_feed() got an unexpected keyword argument 'limit'
+2026-03-17 14:20:35,409 - __main__ - INFO - Found 0 updates
+2026-03-17 14:22:57,018 - __main__ - INFO - No existing session found, starting fresh
+2026-03-17 14:22:57,021 - __main__ - INFO - Facebook API initialized successfully
+2026-03-17 14:22:57,024 - __main__ - INFO - Instagram API initialized successfully
+2026-03-17 14:22:57,024 - __main__ - INFO - Starting Facebook & Instagram Watcher...
+2026-03-17 14:22:57,025 - __main__ - INFO - Running single check...
+2026-03-17 14:23:02,600 - __main__ - INFO - Found 0 updates
+2026-03-31 12:33:40,694 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:33:40,709 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260331_123340.md
+2026-03-31 12:36:16,310 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:48:53,447 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:48:53,456 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260331_124853.md
+2026-03-31 12:50:31,280 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:50:31,637 - __main__ - ERROR - Twitter API error: 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2026-03-31 12:51:37,391 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:51:37,402 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260331_125137.md
+2026-03-31 12:51:38,890 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:51:39,182 - __main__ - ERROR - Twitter API error: 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2026-03-31 12:54:29,915 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:54:29,919 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260331_125429.md
+2026-03-31 12:54:31,353 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-03-31 12:54:31,647 - __main__ - ERROR - Twitter API error: 402 Payment Required
+Your enrolled account [2038875422054621185] does not have any credits to fulfill this request.
+2026-03-31 12:56:57,865 - __main__ - ERROR - Failed to initialize Twitter Poster: 401 Unauthorized
+Unauthorized
+2026-03-31 12:56:57,875 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260331_125657.md
+2026-03-31 12:56:59,681 - __main__ - ERROR - Failed to initialize Twitter Poster: 401 Unauthorized
+Unauthorized
+2026-03-31 12:56:59,682 - __main__ - ERROR - Twitter API not initialized
+2026-04-06 08:38:03,434 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-04-06 08:38:03,448 - __main__ - INFO - Created Twitter draft: AI_Employee_Vault\Pending_Approval\TWITTER_DRAFT_20260406_083803.md
+2026-04-06 08:43:39,880 - __main__ - INFO - Twitter Poster initialized as @jasminedev349
+2026-04-06 08:43:40,294 - __main__ - ERROR - Twitter API error: 402 Payment Required
+Your enrolled account [2038875422054621185] does not have any credits to fulfill this request.
+2026-04-06 09:49:35,723 - WhatsAppWatcher - INFO - Starting WhatsApp Web setup...
+2026-04-06 09:49:35,724 - WhatsAppWatcher - INFO - A browser window will open. Scan the QR code with your phone.
+2026-04-06 09:49:35,724 - WhatsAppWatcher - INFO - Wait for chats to load, then close the browser.
+2026-04-06 09:50:42,277 - WhatsAppWatcher - INFO - Session saved to: AI_Employee_Vault\.whatsapp_session
+2026-04-06 09:51:50,270 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 09:51:50,270 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 09:51:50,271 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 09:52:04,207 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:52:47,939 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:53:31,358 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:53:52,387 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 09:54:44,436 - WhatsAppWatcher - INFO - Starting WhatsApp Web setup...
+2026-04-06 09:54:44,437 - WhatsAppWatcher - INFO - A browser window will open. Scan the QR code with your phone.
+2026-04-06 09:54:44,437 - WhatsAppWatcher - INFO - Wait for chats to load, then close the browser.
+2026-04-06 09:55:48,008 - WhatsAppWatcher - INFO - Session saved to: AI_Employee_Vault\.whatsapp_session
+2026-04-06 09:56:04,077 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 09:56:04,079 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 09:56:04,079 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 09:56:17,166 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:57:00,703 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:57:44,099 - WhatsAppWatcher - WARNING - Chat list not loaded - session may be invalid
+2026-04-06 09:57:48,737 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:03:43,074 - WhatsAppWatcher - INFO - Starting WhatsApp Web setup...
+2026-04-06 10:03:43,075 - WhatsAppWatcher - INFO - A browser window will open. Scan the QR code with your phone.
+2026-04-06 10:03:43,075 - WhatsAppWatcher - INFO - Wait for chats to load, then close the browser.
+2026-04-06 10:04:48,606 - WhatsAppWatcher - INFO - Session saved to: AI_Employee_Vault\.whatsapp_session
+2026-04-06 10:05:07,735 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:05:07,735 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:05:07,736 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:05:16,636 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:05:19,736 - WhatsAppWatcher - INFO - Found 3 chats using selector: div[role="gridcell"]
+2026-04-06 10:05:59,366 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:06:02,428 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:06:41,016 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:06:44,033 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:06:59,176 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:08:30,053 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:08:30,054 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:08:30,057 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:08:38,112 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:08:41,141 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:09:19,911 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:09:22,972 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:10:01,496 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:10:04,554 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:10:43,398 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:10:46,429 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:10:53,728 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:11:41,764 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:11:41,764 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:11:41,765 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:11:49,708 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:11:52,780 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:12:31,556 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:12:34,589 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:13:13,078 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:13:16,110 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:13:54,685 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:13:57,746 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:14:22,025 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:14:32,622 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:14:32,622 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:14:32,622 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:14:40,630 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:14:43,688 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:15:22,345 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:15:25,377 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:16:03,987 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:16:07,008 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:16:45,558 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:16:48,690 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:17:27,781 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:17:30,854 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:18:10,197 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:18:13,261 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:18:52,426 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:18:55,496 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:19:35,015 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:19:38,060 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:20:16,509 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:20:19,576 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:20:58,289 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:21:01,317 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:21:40,133 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:21:43,241 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:22:21,827 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:22:24,852 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:22:37,341 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:24:08,389 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:24:08,390 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:24:08,390 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:24:16,327 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:24:19,359 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:24:57,896 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:25:00,934 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:25:39,978 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:25:43,011 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:26:21,909 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:26:25,105 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:26:29,782 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:27:47,712 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:27:47,713 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:27:47,713 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:27:55,458 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:27:58,502 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:28:36,810 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:28:39,859 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:29:19,529 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:29:22,570 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:30:00,964 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:30:04,007 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:30:43,207 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:30:46,692 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:30:46,706 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-06 10:31:22,872 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:31:22,872 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:31:22,873 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:31:31,351 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:31:34,390 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:31:34,403 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1
+2026-04-06 10:31:34,414 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:32:14,240 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:32:17,267 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:32:17,279 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1
+2026-04-06 10:32:17,288 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:32:29,096 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:33:03,305 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:33:03,305 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:33:03,305 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:33:11,140 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:33:14,187 - WhatsAppWatcher - INFO - Found 2 chats using selector: [aria-label*="unread"]
+2026-04-06 10:33:14,219 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1
+2026-04-06 10:33:14,242 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:33:53,049 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:45:07,077 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 10:45:07,088 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-06 10:45:53,813 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 10:45:53,814 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 10:45:53,814 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 10:46:01,067 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:46:04,100 - WhatsAppWatcher - INFO - Found 3 chats using selector: div[role="gridcell"]
+2026-04-06 10:46:04,109 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM | Ye kaam urgent hai | 5
+2026-04-06 10:46:04,109 - WhatsAppWatcher - INFO - ✅ Important message from: 5 unread messages (Keyword: urgent)
+2026-04-06 10:46:04,119 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM
+2026-04-06 10:46:04,128 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:46:04,659 - WhatsAppWatcher - INFO - Created action file: WHATSAPP_20260406_104604_5_unread_messages.md
+2026-04-06 10:46:42,117 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:46:45,209 - WhatsAppWatcher - INFO - Found 3 chats using selector: div[role="gridcell"]
+2026-04-06 10:46:45,233 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM | Ye kaam urgent hai | 5
+2026-04-06 10:46:45,290 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM
+2026-04-06 10:46:45,301 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:47:23,713 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 10:47:26,769 - WhatsAppWatcher - INFO - Found 3 chats using selector: div[role="gridcell"]
+2026-04-06 10:47:26,853 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM | Ye kaam urgent hai | 5
+2026-04-06 10:47:26,988 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5 unread messages | Jasmine | 10:19 AM
+2026-04-06 10:47:27,005 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 5
+2026-04-06 10:47:38,525 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 17:38:25,465 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 17:38:25,466 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 17:38:25,466 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 17:38:34,636 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:38:37,675 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:38:37,686 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:38:37,695 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:38:37,704 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:38:37,711 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> Jasmine | 10:19 AM | Ye kaam urgent hai
+2026-04-06 17:38:37,712 - WhatsAppWatcher - INFO - ✅ Important message from: Jasmine (Keyword: urgent)
+2026-04-06 17:38:37,719 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> Jasmine | 10:19 AM
+2026-04-06 17:38:37,728 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:38:38,218 - WhatsAppWatcher - INFO - Created action file: WHATSAPP_20260406_173838_Jasmine.md
+2026-04-06 17:39:15,854 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:39:18,926 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:39:18,949 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:39:18,960 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:39:18,972 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:39:18,984 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> Jasmine | 10:19 AM | Ye kaam urgent hai
+2026-04-06 17:39:18,995 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> Jasmine | 10:19 AM
+2026-04-06 17:39:19,007 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:39:57,328 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:40:00,390 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:40:00,409 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1 unread message | Jasmine | 5:41 PM | Please help me | 1
+2026-04-06 17:40:00,410 - WhatsAppWatcher - INFO - ✅ Important message from: 1 unread message (Keyword: help)
+2026-04-06 17:40:00,426 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1 unread message | Jasmine | 5:41 PM
+2026-04-06 17:40:00,442 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 1
+2026-04-06 17:40:00,459 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:40:00,474 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:40:00,488 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:40:00,967 - WhatsAppWatcher - INFO - Created action file: WHATSAPP_20260406_174000_1_unread_message.md
+2026-04-06 17:40:38,997 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:40:42,083 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:40:42,102 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:40:42,103 - WhatsAppWatcher - INFO - ✅ Important message from: 2 unread messages (Keyword: payment)
+2026-04-06 17:40:42,118 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:40:42,131 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:40:42,145 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:40:42,157 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:40:42,169 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:40:42,682 - WhatsAppWatcher - INFO - Created action file: WHATSAPP_20260406_174042_2_unread_messages.md
+2026-04-06 17:41:20,065 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:41:23,130 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:41:23,145 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:41:23,154 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:41:23,167 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:41:23,178 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:41:23,186 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:41:23,196 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:42:01,552 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:42:04,593 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:42:04,618 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:42:04,635 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:42:04,649 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:42:04,664 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:42:04,678 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:42:04,688 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:42:49,161 - WhatsAppWatcher - INFO - Chat list found using selector: div[aria-label="Chat list"]
+2026-04-06 17:43:28,305 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:43:28,336 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:43:28,354 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:43:28,370 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:43:28,385 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:43:28,401 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:43:28,412 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:44:06,302 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:44:09,338 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:44:09,349 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:44:09,360 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:44:09,368 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:44:09,378 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:44:09,385 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:44:09,394 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:44:47,317 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:44:50,382 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:44:50,413 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:44:50,483 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:44:50,496 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:44:50,510 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:44:50,520 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:44:50,531 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:45:28,556 - WhatsAppWatcher - INFO - Chat list found using selector: div[role="grid"]
+2026-04-06 17:45:31,629 - WhatsAppWatcher - INFO - Found 6 chats using selector: div[role="gridcell"]
+2026-04-06 17:45:31,660 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM | Mujhe payment karni hai. | 2
+2026-04-06 17:45:31,684 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2 unread messages | Jasmine | 5:41 PM
+2026-04-06 17:45:31,712 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 2
+2026-04-06 17:45:31,737 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM | Hii
+2026-04-06 17:45:31,751 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> +92 349 1839458 | (You) | 1:15 PM
+2026-04-06 17:45:31,767 - WhatsAppWatcher - INFO - 👁️ DEBUG: Found Chat Text -> 
+2026-04-06 17:45:47,437 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 17:47:07,265 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 17:47:07,266 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 17:47:07,266 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 17:48:41,801 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user
+2026-04-06 17:50:14,156 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-04-06 17:50:14,156 - WhatsAppWatcher - INFO - Vault path: AI_Employee_Vault
+2026-04-06 17:50:14,157 - WhatsAppWatcher - INFO - Check interval: 30s
+2026-04-06 17:50:15,047 - __main__ - INFO - Launching browser...
+2026-04-06 17:50:15,964 - __main__ - INFO - Opening WhatsApp Web...
+2026-04-06 17:50:16,540 - __main__ - INFO - Waiting for chat list...
+2026-04-06 17:50:24,264 - __main__ - INFO - Scanning chats...
+2026-04-06 17:50:24,322 - __main__ - INFO - Found 6 chats.
+2026-04-06 17:50:24,357 - __main__ - INFO - ✅ Important message from: 2 unread messages
+Jasmine
+5:41 PM
+Mujhe payment karni hai.
+2 (Keyword: payment)
+2026-04-06 17:50:25,143 - WhatsAppWatcher - INFO - Created action file: WHATSAPP_20260406_175025_2_unread_messages_Ja.md
+2026-04-06 17:50:56,390 - __main__ - INFO - Launching browser...
+2026-04-06 17:50:57,354 - __main__ - INFO - Opening WhatsApp Web...
+2026-04-06 17:50:58,279 - __main__ - INFO - Waiting for chat list...
+2026-04-06 17:51:06,687 - __main__ - INFO - Scanning chats...
+2026-04-06 17:51:06,712 - __main__ - INFO - Found 6 chats.
+2026-04-06 17:51:38,347 - __main__ - INFO - Launching browser...
+2026-04-06 17:51:39,110 - __main__ - INFO - Opening WhatsApp Web...
+2026-04-06 17:51:39,899 - __main__ - INFO - Waiting for chat list...
+2026-04-06 17:51:50,176 - __main__ - INFO - Scanning chats...
+2026-04-06 17:51:50,231 - __main__ - INFO - Found 6 chats.
+2026-04-06 17:52:22,007 - __main__ - INFO - Launching browser...
+2026-04-06 17:52:22,899 - __main__ - INFO - Opening WhatsApp Web...
+2026-04-06 17:52:23,554 - __main__ - INFO - Waiting for chat list...
+2026-04-06 17:52:31,758 - __main__ - INFO - Scanning chats...
+2026-04-06 17:52:31,818 - __main__ - INFO - Found 6 chats.
+2026-04-06 17:53:01,175 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped by user

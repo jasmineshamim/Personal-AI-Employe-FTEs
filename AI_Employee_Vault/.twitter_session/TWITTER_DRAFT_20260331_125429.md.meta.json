@@ -1,0 +1,10 @@
+{
+  "type": "social_media_post",
+  "platform": "twitter",
+  "text": "Testing Twitter! \ud83d\ude80 #AIEmployee",
+  "thread": null,
+  "reply_to": null,
+  "scheduled_time": null,
+  "created": "2026-03-31T12:54:29.916929",
+  "status": "pending_approval"
+}

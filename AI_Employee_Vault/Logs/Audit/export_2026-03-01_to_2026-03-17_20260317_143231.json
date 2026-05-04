@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2026-03-17T14:31:28.663449",
+    "action_type": "task_create",
+    "actor": "test_user",
+    "target": "test_task",
+    "parameters": {
+      "test": "data"
+    },
+    "approval_status": "not_required",
+    "approved_by": null,
+    "result": "success",
+    "error_message": null,
+    "metadata": {},
+    "log_id": "baba624881c2c72d"
+  }
+]
